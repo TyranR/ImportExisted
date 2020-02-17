@@ -1,6 +1,6 @@
 /1.2. Site For Import/tmp/
 *.DS_Store
-*.[_backup]
-*.[_old]
+*_backup
+*_old
 Thumbs.db
 .idea
